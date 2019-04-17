@@ -4,9 +4,9 @@ import pandas
 import random
 
 # AUTHENTIFICATION INFO
-client_id = '5d1a4f9a49ff461fae869bb6fda3443d'
-client_secret = '6f30bba23e264c5d97c08d182d7d919a'
-username = 'helenflynnigan'
+client_id = 
+client_secret = 
+username = 
 scope = 'user-library-read user-top-read playlist-modify-public user-follow-read'
 redirect_uri = 'http://localhost:888/callback'
 
